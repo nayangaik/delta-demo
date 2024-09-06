@@ -1,2 +1,2 @@
 # delta-demo
-first repo
+first repository.good start champ.
